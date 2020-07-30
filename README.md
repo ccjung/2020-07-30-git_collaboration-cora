@@ -10,3 +10,9 @@ Git collaboration notes
 - `git switch <branch_name>` : move to branch
     - `git checkout <branch_name>`: the pre-August 2019 way
 
+- `git push origin <branch>`
+- `git pull origin <branch>`
+- `git fetch --prune`
+- `git branch -d <branch>`
+- `git log --oneline --graph --decorate --all`
+
